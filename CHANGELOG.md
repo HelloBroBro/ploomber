@@ -1,6 +1,10 @@
 # CHANGELOG
 
-## 0.23.2dev
+## 0.23.3dev
+
+## 0.23.2 (2024-02-07)
+
+* [Feature] Adds `ploomber-extension` as a dependency
 
 ## 0.23.1 (2023-11-29)
 
